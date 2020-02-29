@@ -5,7 +5,7 @@ sharing automation in Python
 ```
 pip install pipenv
 pipenv install
-pip shell
+pipenv shell
 ```
 
 # Run
